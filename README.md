@@ -34,6 +34,7 @@ It works by reading pixel data from the sprite's texture, grouping similar color
 Simply copy the `ColorAnalyzer.cs` script into your Unity project's folder.
 
 ---
+![image](https://github.com/user-attachments/assets/df51c21f-8b76-433e-ac53-0e011c2e55b6)
 
 ### 🎮 Example Usage
 
